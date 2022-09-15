@@ -1,4 +1,6 @@
-### Hi there 👋 I am a FED22M student @Medieinstitutet
+### Hi there 👋 I am a FED22M student @Medieinstitutet.
+
+Mitt namn är Bob Oskar Kindgren och i februari var jag i Sydafrika. Det sjukaste jag gjorde där var att hoppa bungy jump från en bro på 200 meters höjd. Freeeedom! Adrenalinet sprudlade kan jag säga! Riktigt fett var det! Detta är ett test för new bransch
 
 <!--
 **boboskarkindgren/boboskarkindgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
